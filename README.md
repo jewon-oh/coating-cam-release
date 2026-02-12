@@ -1,6 +1,6 @@
 # Coating CAM
 
-[![Version](https://img.shields.io/badge/version-0.4.0-orange.svg)](https://github.com/jewon-oh/coating-cam-release/releases)
+[![Version](https://img.shields.io/github/v/release/jewon-oh/coating-cam-release?color=orange&label=version)](https://github.com/jewon-oh/coating-cam-release/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 > PCB 코팅 경로 생성을 위한 CAM 소프트웨어
